@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unti:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/unti_jar</output-path>
+    <root id="archive" name="unti.jar">
+      <element id="module-output" name="unti" />
+    </root>
+  </artifact>
+</component>
